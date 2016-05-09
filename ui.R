@@ -16,8 +16,8 @@ shinyUI(pageWithSidebar(
                 h4('Dygraph Visualization for tourist data from selected country'),
                 dygraphOutput("dygraph"),
                 p("For Complete code, visit ",
-                  a("Github", href = "https://github.com/kckishan/FirstShinyapp")),
-                p("© ", a("Kishan K.C.", href = "https://np.linkedin.com/in/kishankc" ),
+                  a("Github", href = "https://github.com/subashshrestha/Shiny_app_and_Reproducible_Pitch")),
+                p("© ", a("Subash Shrestha", href = "https://np.linkedin.com/in/shresthasubash" ),
                   "2015 All Rights reserved.")
         )
 ))
