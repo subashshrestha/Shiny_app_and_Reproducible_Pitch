@@ -14,6 +14,6 @@ January, February, March, April, May, June, July,
 August, September, October, November, December
 ```
 
-You can view the [shiny apps](https://kishankc.shinyapps.io/TouristVisitToNepal/) deployed. 
+You can view the [shiny apps](https://subashshrestha.shinyapps.io/Shiny_app_and_Reproducible_Pitch/) deployed. 
 
-© Kishan K.C. 2015 All Rights reserved.
+© Subash Shrestha. 2015 All Rights reserved.
